@@ -1,0 +1,10 @@
+Jordan was working on a cipher sequence:  
+1. Reverse the string.  
+2. Apply ROT13.  
+3. Base64 encode.  
+
+Example:  
+Original: hello  
+Reverse: olleh  
+ROT13: byyru  
+Base64: Ynl5cnU=
